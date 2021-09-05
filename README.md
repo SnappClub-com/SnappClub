@@ -19,7 +19,7 @@ SnappClub is under construction...
 
 |  SnappClub Info   	|
 |:-:	|
-| [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmansamian/)   	|
+| [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/snappclub/)   	|
 |Contact admin : +989175585218   	|
 | we need a part time ReactJs Developer   	|
   
